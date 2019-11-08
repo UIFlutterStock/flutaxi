@@ -38,9 +38,6 @@ samples, guidance on mobile development, and a full API reference.
  flutter pub run flutter_launcher_icons:main
  
  
- b959645a-3176-4ba3-b082-f2fb83fe5697
- AKGGXFXEDDJTNXNBVYYNITJNSVOTMNHCFWCQXIOC
- 
  
  ## ScreenShot
 
