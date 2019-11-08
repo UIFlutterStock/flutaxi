@@ -1,0 +1,1 @@
+export 'veiculo.data.dart';

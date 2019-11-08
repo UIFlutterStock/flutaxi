@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "823132932817",
+    "firebase_url": "https://fluttaxi.firebaseio.com",
+    "project_id": "fluttaxi",
+    "storage_bucket": "fluttaxi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823132932817:android:e3a6cd971116b1f64c13f0",
+        "android_client_info": {
+          "package_name": "com.fluttaxi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "823132932817-1bm5qjfcl5cc63n99ph1r9107bjclc65.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fluttaxi",
+            "certificate_hash": "8017668e1295ba7661fe70a9327f131a94b92241"
+          }
+        },
+        {
+          "client_id": "823132932817-5ur43upbja65am884a0j4p28n6jus432.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiPLUvN3ysiah9_svzH4cbyxSdoApJSQc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "823132932817-5ur43upbja65am884a0j4p28n6jus432.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,10 @@
+export 'enums.dart';
+export 'filtro.entity.dart';
+export 'imagem.entity.dart';
+export 'local.entity.dart';
+export 'motorista.entity.dart';
+export 'passageiro.entity.dart';
+export 'provider-mapa.entity.dart';
+export 'relatorio.entity.dart';
+export 'veiculo.entity.dart';
+export 'viagem.entity.dart';

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "367268749792",
+    "firebase_url": "https://gocar-a0a9c.firebaseio.com",
+    "project_id": "gocar-a0a9c",
+    "storage_bucket": "gocar-a0a9c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367268749792:android:fa4ba65dab3a8f79",
+        "android_client_info": {
+          "package_name": "com.gocar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "367268749792-b6f5cdh50n8l2clartcdctb6li65g1n5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gocar",
+            "certificate_hash": "60aa672c3e0b6a9484044cbe32e1e7e927cebe07"
+          }
+        },
+        {
+          "client_id": "367268749792-v2lgn4p0p59vjngthfkb0shgcbst3uvb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcm7W97eaEWpRV77-1sKR74h3xxhm4_4g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "367268749792-v2lgn4p0p59vjngthfkb0shgcbst3uvb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

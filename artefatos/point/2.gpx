@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpsies="https://www.gpsies.com/GPX/1/0" creator="AllTrails https://www.alltrails.com/ - AllTrails Route" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd https://www.gpsies.com/GPX/1/0 https://www.gpsies.com/gpsies.xsd">
+  <metadata>
+    <name>AllTrails Route</name>
+    <link href="https://www.gpsies.com/">
+      <text>AllTrails Route on AllTrails</text>
+    </link>
+    <time>2019-10-02T14:27:26Z</time>
+  </metadata>
+  <trk>
+    <name>AllTrails Route on AllTrails</name>
+    <trkseg>
+      <trkpt lat="-23.4952969" lon="-46.6598153">
+        <ele>732.00000</ele>
+        <time>2010-01-01T00:00:00Z</time>
+      </trkpt>
+      <trkpt lat="-23.4953100" lon="-46.6598300">
+        <ele>732.00000</ele>
+        <time>2010-01-01T00:00:01Z</time>
+      </trkpt>
+      <trkpt lat="-23.4961200" lon="-46.6589500">
+        <ele>735.00000</ele>
+        <time>2010-01-01T00:01:17Z</time>
+      </trkpt>
+      <trkpt lat="-23.4967300" lon="-46.6596000">
+        <ele>736.00000</ele>
+        <time>2010-01-01T00:02:14Z</time>
+      </trkpt>
+      <trkpt lat="-23.5028000" lon="-46.6528500">
+        <ele>776.00000</ele>
+        <time>2010-01-01T00:11:52Z</time>
+      </trkpt>
+      <trkpt lat="-23.5026100" lon="-46.6517900">
+        <ele>776.00000</ele>
+        <time>2010-01-01T00:12:58Z</time>
+      </trkpt>
+      <trkpt lat="-23.5024800" lon="-46.6511800">
+        <ele>778.00000</ele>
+        <time>2010-01-01T00:13:37Z</time>
+      </trkpt>
+      <trkpt lat="-23.5024100" lon="-46.6510000">
+        <ele>780.00000</ele>
+        <time>2010-01-01T00:13:49Z</time>
+      </trkpt>
+      <trkpt lat="-23.5023100" lon="-46.6508500">
+        <ele>782.00000</ele>
+        <time>2010-01-01T00:14:00Z</time>
+      </trkpt>
+      <trkpt lat="-23.5017900" lon="-46.6504900">
+        <ele>784.00000</ele>
+        <time>2010-01-01T00:14:41Z</time>
+      </trkpt>
+      <trkpt lat="-23.5010600" lon="-46.6501300">
+        <ele>790.00000</ele>
+        <time>2010-01-01T00:15:35Z</time>
+      </trkpt>
+      <trkpt lat="-23.5004900" lon="-46.6497000">
+        <ele>793.00000</ele>
+        <time>2010-01-01T00:16:21Z</time>
+      </trkpt>
+      <trkpt lat="-23.5004000" lon="-46.6495200">
+        <ele>792.00000</ele>
+        <time>2010-01-01T00:16:33Z</time>
+      </trkpt>
+      <trkpt lat="-23.5003000" lon="-46.6491600">
+        <ele>792.00000</ele>
+        <time>2010-01-01T00:16:56Z</time>
+      </trkpt>
+      <trkpt lat="-23.5002600" lon="-46.6488400">
+        <ele>792.00000</ele>
+        <time>2010-01-01T00:17:16Z</time>
+      </trkpt>
+      <trkpt lat="-23.5013200" lon="-46.6483300">
+        <ele>790.00000</ele>
+        <time>2010-01-01T00:18:33Z</time>
+      </trkpt>
+      <trkpt lat="-23.5015200" lon="-46.6481900">
+        <ele>790.00000</ele>
+        <time>2010-01-01T00:18:49Z</time>
+      </trkpt>
+      <trkpt lat="-23.5016500" lon="-46.6480400">
+        <ele>791.00000</ele>
+        <time>2010-01-01T00:19:02Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
+
