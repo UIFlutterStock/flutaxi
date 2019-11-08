@@ -14,7 +14,7 @@ final Ambiente configAmbiente = Ambiente.Driver;
 
 final double valorKm = 5;
 
-final keyGoogle = 'AIzaSyCS1gdYVdjXMSaG3D7O-EjtSHUUn_ShoAw';
+final keyGoogle = '';
 
 
 
